@@ -41,7 +41,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](images/hailespace.png)
 
 Hailespace is your ultimate fintech solution, designed to simplify money transfers across African countries. By leveraging the power of Flutterwave and Mpesa Daraja APIs, Hailespace enables users to send and receive money with ease, transcending geographical boundaries and financial barriers. With a user-friendly interface and robust functionality, Hailespace sets a new standard in cross-border payments.
 
