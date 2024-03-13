@@ -64,7 +64,7 @@ Hailespace is your ultimate fintech solution, designed to simplify money transfe
 
 ### Cloning
 
-### This project is done under hailespace LTD, Kenya and is still in development thus the code is not available for now and its only for purposes of showcasing in my portfolio. Stay tuned to when an open version of this code will be available. For now, hope you like the demosS
+This project is done under hailespace LTD, Kenya and is still in development thus the code is not available for now and its only for purposes of showcasing in my portfolio. Stay tuned to when an open version of this code will be available. For now, hope you like the demosS
 
 ### Usage
 
